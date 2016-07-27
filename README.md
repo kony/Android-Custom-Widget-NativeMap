@@ -4,7 +4,30 @@ Application to showcase Android custom widget import in Kony Visualizer Enterpri
 There are 2 projects here. One is android native project that exposes the native map as a Kony custom widget. Other project is Kony Visualizer project that consumes this custom widget.
 
 # Purpose
-Sample Application to showcase how to develop a custom widget for android and integrate the same into Visualizer.
+Sample Application to showcase how to develop a custom widget for android and integrate the same into Visualizer.<br /> 
+Following properties/events/methods are supported by the map custom widget. Setting/calling the below properties/methods would cause invocation of the appropriate native APIs to achieve the desired behaviour
+
+**Properties:**<br /> 
+displayMode<br /> 
+zoomLevel<br /> 
+showZoomControl<br /> 
+width<br /> 
+height<br /> 
+locationData<br /> 
+address<br /> 
+<br /> 
+**Events:**<br /> 
+onPinClick<br /> 
+onBoundsChange<br /> 
+onMapClick<br /> 
+<br /> 
+**Methods:**<br />
+clear<br /> 
+dismissCallout<br /> 
+animateToLocation<br /> 
+navigateToIndex<br /> 
+
+<br/> Note: To see the mappings in Visualizer, please navigate Integrate Thirdparty->Manage custom widget -> Android
 
 # To run the Kony application
 
