@@ -30,3 +30,16 @@ For making any changes to this,
 4. Open the .aar with 7-zip and remove the konywidgets.jar file from the lib folder
 5. Copy the resultant .aar file into the Kony Application folder <Your workspace>\CustomMap\resources\customwidgets\lib\android 
 6. Build and launch the application
+
+
+#Sample screens
+
+![Screen 1](https://github.com/nampelli/Android-Custom-Widget-NativeMap/blob/master/screenshots/customwidget_scr1.png)
+
+![Screen 2](https://github.com/nampelli/Android-Custom-Widget-NativeMap/blob/master/screenshots/customwidget_scr2.png)
+
+![Screen 3](https://github.com/nampelli/Android-Custom-Widget-NativeMap/blob/master/screenshots/customwidget_scr3.png)
+
+![Screen 4](https://github.com/nampelli/Android-Custom-Widget-NativeMap/blob/master/screenshots/customwidget_scr4.png)
+
+![Screen 5](https://github.com/nampelli/Android-Custom-Widget-NativeMap/blob/master/screenshots/customwidget_scr5.png)
