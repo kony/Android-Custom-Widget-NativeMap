@@ -1,0 +1,25 @@
+{
+    "p2kwiet7980150040_button1178224054301915_onClick_seq0": {
+        "id": "p2kwiet7980150040_button1178224054301915_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_10998798015005517",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEventOnBoundsChanged",
+            "formKUID": "p2kwiet7980150026",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }, {
+            "id": "expression_onClick_31274798015005251",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmEventOnBoundsChanged.map1.locationdata = [ \n {\n lat:\"17.447326\",lon:\"78.371358\",name:\"KonyLabs(new)\",desc:\"Phoenix infocity, Gachibowli\",image:\"pin_a.png\"\n },\n {\n lat:\"17.441839\", lon:\"78.380928\", name:\"KonyLabs(old)\",desc:\"Kony Solutions,, Unit 501, 9th Floor, Building No. 9,, Mindspace, APIIC Software Layout,, Hitech City, Madhapur,, Hyderabad, AP 500081., Vittal Rao Nagar, Hitech City, Hyderabad, Andhra Pradesh\",image:\"pin_b.png\"\n },\n {\n lat:\"17.450378\", lon:\"78.388398\", name:\"My Residence\",desc:\"408,SGR Appartments,Jaihind Enclave, Madhapur, Hyderabad, Andhra Pradesh\",image:\"pin_a.png\"\n }\n ];"
+        }]
+    }
+}

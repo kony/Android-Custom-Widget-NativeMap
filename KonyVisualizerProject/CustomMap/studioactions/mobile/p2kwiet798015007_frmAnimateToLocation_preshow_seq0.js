@@ -1,0 +1,1 @@
+function p2kwiet798015007_frmAnimateToLocation_preshow_seq0(eventobject, neworientation) {}

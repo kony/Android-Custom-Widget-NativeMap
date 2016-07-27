@@ -1,0 +1,21 @@
+{
+    "p2kwiet7980150034_frmEventOnPinClick_preshow_seq0": {
+        "id": "p2kwiet7980150034_frmEventOnPinClick_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_8423579801500270",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmEventOnPinClick_LoadData",
+            "display": "frmEventOnPinClick_LoadData",
+            "inputparams": []
+        }]
+    }
+}

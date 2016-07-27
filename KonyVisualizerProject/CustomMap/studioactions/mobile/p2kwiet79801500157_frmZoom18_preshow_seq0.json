@@ -1,0 +1,21 @@
+{
+    "p2kwiet79801500157_frmZoom18_preshow_seq0": {
+        "id": "p2kwiet79801500157_frmZoom18_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_44764798015008934",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmZoom18_LoadData",
+            "display": "frmZoom18_LoadData",
+            "inputparams": []
+        }]
+    }
+}

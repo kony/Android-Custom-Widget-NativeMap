@@ -1,0 +1,21 @@
+{
+    "p2kwiet79801500105_frmModeIDESatelite_postshow_seq0": {
+        "id": "p2kwiet79801500105_frmModeIDESatelite_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_postshow_94553798015002623",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmModeIDESatelite_DataLoad",
+            "display": "frmModeIDESatelite_DataLoad",
+            "inputparams": []
+        }]
+    }
+}

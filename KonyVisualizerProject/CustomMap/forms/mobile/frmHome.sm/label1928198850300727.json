@@ -1,0 +1,106 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "s01460b4b5c84c9bbcd8243e53b62351",
+    "_text_": "Test Events for Map",
+    "_wrapping_": 2,
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.label.AndroidLabelProperty",
+        "psp": {
+            "textCopyable": false
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 65,
+    "contentalignment": 4,
+    "hexpand": true,
+    "id": "label1928198850300727",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "textCopyable": false,
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet7980150061",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "hbox1928198850300725",
+    "pf": "frmHome",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPALabelProperty",
+        "psp": {
+            "textCopyable": false
+        }
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAAndroidLabelProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPABBLabelProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAIPhoneLabelProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.SPAWinPhone8LabelProperty",
+        "render": true
+    },
+    "tooltip": "",
+    "vexpand": true,
+    "wType": "Label",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.label.WinPhone8LabelProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

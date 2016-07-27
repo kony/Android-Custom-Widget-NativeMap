@@ -1,0 +1,111 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "android": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "customProperties": {
+        "address": null,
+        "displayMode": "Normal",
+        "height": 75,
+        "ide_onBoundsChange": "p2kwiet7980150012_map1_onBoundsChange_seq0",
+        "ide_onMapClick": "p2kwiet7980150012_map1_onMapClick_seq0",
+        "ide_onPinClick": "p2kwiet7980150012_map1_onPinClick_seq0",
+        "locationData": null,
+        "showZoomControl": true,
+        "width": 100,
+        "zoomLevel": 1
+    },
+    "cwEvents": [
+        "onPinClick",
+        "onMapClick",
+        "onBoundsChange"
+    ],
+    "cwid": "jsRCCustomWidget118198246453449",
+    "hexpand": true,
+    "id": "map1",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet7980150011",
+    "margininpixel": false,
+    "name": "CustomMapWidget-maps",
+    "paddinginpixel": false,
+    "parent": "frmClearMap",
+    "pf": "frmClearMap",
+    "platformKey": "android",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": false
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": false
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "render": false
+    },
+    "vexpand": false,
+    "wType": "TPW",
+    "widgetalignment": 5,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.psp.WidgetProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": false
+    }
+}

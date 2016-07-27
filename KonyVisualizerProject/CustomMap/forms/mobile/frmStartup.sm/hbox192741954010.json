@@ -1,0 +1,83 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_resize_": true,
+    "_skin_": "s7fc4ccaeb0b48f79264cc78435d7745",
+    "allboxes": [],
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.AndroidHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "borderCollapse": false,
+    "canUpdateUI": true,
+    "children": [
+        "button192741954031980",
+        "button192741954032212",
+        "button137131096232200"
+    ],
+    "containerweight": 100,
+    "id": "hbox192741954010",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.IPhoneHBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet79801500137",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "frmStartup",
+    "pf": "frmStartup",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAHBoxProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAAndroidHBoxProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPABBHBoxProperty",
+        "render": true
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAIPhoneHBoxProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.SPAWinPhone8HBoxProperty",
+        "render": true
+    },
+    "templateType": "forms",
+    "wType": "HBox",
+    "widgetalignment": 1,
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.hbox.WinPhone8HBoxProperty",
+        "_position_": 3,
+        "position": 3,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    }
+}

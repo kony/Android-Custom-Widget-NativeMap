@@ -1,0 +1,1 @@
+function p2kwiet798015002_map1_onMapClick_seq0() {}

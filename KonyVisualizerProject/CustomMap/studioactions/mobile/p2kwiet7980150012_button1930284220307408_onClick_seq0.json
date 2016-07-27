@@ -1,0 +1,16 @@
+{
+    "p2kwiet7980150012_button1930284220307408_onClick_seq0": {
+        "id": "p2kwiet7980150012_button1930284220307408_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_68272798015001221",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmClearMap.map1.clear();"
+        }]
+    }
+}

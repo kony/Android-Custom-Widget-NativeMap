@@ -1,0 +1,16 @@
+This file contains the changes made to the project during upgrade to Kony Visualizer. Please verify the changes
+=======================================================================================================
+
+Upgrade Issues
+==============
+Below replacements were made in your project. Please verify these changes.
+
+skin( /Users/kh499/CustomMap/themes ) : 
+'titleBar' has been renamed to : 'titleBarstudio1'
+
+
+Checking for Warnings in project
+================================
+After replacement of all the Upgrade issues, we found the following instances of widget ids, keywords in your modules.Please verify that these changes are as per your requirement.
+
+	No warnings.

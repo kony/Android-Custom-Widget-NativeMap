@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="CustomMap" name="CustomMap">
+    <container isflex="false" displayname="Form" id="frmAddress" type="form"/>
+    <container isflex="false" displayname="Form" id="frmAnimateToLocation" type="form"/>
+    <container isflex="false" displayname="Form" id="frmClearMap" type="form"/>
+    <container isflex="false" displayname="Form" id="frmCustomPin" type="form"/>
+    <container isflex="false" displayname="Form" id="frmDismissCallout" type="form"/>
+    <container isflex="false" displayname="Form" id="frmEventOnBoundsChanged" type="form"/>
+    <container isflex="false" displayname="Form" id="frmEventOnMapClick" type="form"/>
+    <container isflex="false" displayname="Form" id="frmEventOnPinClick" type="form"/>
+    <container isflex="false" displayname="Form" id="frmEvents" type="form"/>
+    <container isflex="false" displayname="Form" id="frmHome" type="form"/>
+    <container isflex="false" displayname="Form" id="frmIsVisibleRW" type="form"/>
+    <container isflex="false" displayname="Form" id="frmLocationData" type="form"/>
+    <container isflex="false" displayname="Form" id="frmMethods" type="form"/>
+    <container isflex="false" displayname="Form" id="frmModeIDE" type="form"/>
+    <container isflex="false" displayname="Form" id="frmModeIDENormal" type="form"/>
+    <container isflex="false" displayname="Form" id="frmModeIDESatelite" type="form"/>
+    <container isflex="false" displayname="Form" id="frmModeIDETraffic" type="form"/>
+    <container isflex="false" displayname="Form" id="frmNavigateTo" type="form"/>
+    <container isflex="false" displayname="Form" id="frmShowCallout" type="form"/>
+    <container isflex="false" displayname="Form" id="frmShowZoomControl" type="form"/>
+    <container isflex="false" displayname="Form" id="frmShowZoomControlFalse" type="form"/>
+    <container isflex="false" displayname="Form" id="frmShowZoomControlTrue" type="form"/>
+    <container isflex="false" displayname="Form" id="frmStartup" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom10" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom14" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom18" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom2" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom21" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoom6" type="form"/>
+    <container isflex="false" displayname="Form" id="frmZoomLevelInIDE" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

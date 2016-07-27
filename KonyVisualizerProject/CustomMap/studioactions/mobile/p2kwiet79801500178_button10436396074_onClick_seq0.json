@@ -1,0 +1,21 @@
+{
+    "p2kwiet79801500178_button10436396074_onClick_seq0": {
+        "id": "p2kwiet79801500178_button10436396074_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "navigation_onClick_5420379801500998",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmZoom10",
+            "formKUID": "p2kwiet79801500149",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,3 @@
+function p2kwiet7980150026_map1_onBoundsChange_seq0() {
+    frmEventOnBoundsChanged.labelBounds.text = "OnBoundsChanged Event Triggered \ncenter bound \nlatitude:" + arguments[0].center.lat + " \nlongitude:" + arguments[0].center.lon + " \nnortheast bound \nlatitude:" + arguments[0].northeast.lat + "\nlongitude:" + arguments[0].northeast.lon + " \nsouthwest bound \nlatitude:" + arguments[0].southwest.lat + " \nlongitude:" + arguments[0].southwest.lon;
+}

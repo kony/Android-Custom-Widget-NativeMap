@@ -1,0 +1,16 @@
+{
+    "p2kwiet79801500145_button137131096230236_onClick_seq0": {
+        "id": "p2kwiet79801500145_button137131096230236_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_32644798015009916",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmStartup.M4BMapViewcustom192741954029725.displayMode=\"Satellite\";"
+        }]
+    }
+}

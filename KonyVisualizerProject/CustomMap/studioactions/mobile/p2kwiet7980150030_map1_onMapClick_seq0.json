@@ -1,0 +1,12 @@
+{
+    "p2kwiet7980150030_map1_onMapClick_seq0": {
+        "id": "p2kwiet7980150030_map1_onMapClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "expression_onMapClick_48037798015005477",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"On Map Event Triggered \\nlatitude: \"+ arguments[0].lat +\" \\nlongitude: \"+arguments[0].lon);"
+        }]
+    }
+}

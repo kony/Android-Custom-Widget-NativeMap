@@ -1,0 +1,21 @@
+{
+    "p2kwiet798015002_frmAddress_preshow_seq0": {
+        "id": "p2kwiet798015002_frmAddress_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_80378798015007394",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAddress_LoadData",
+            "display": "frmAddress_LoadData",
+            "inputparams": []
+        }]
+    }
+}

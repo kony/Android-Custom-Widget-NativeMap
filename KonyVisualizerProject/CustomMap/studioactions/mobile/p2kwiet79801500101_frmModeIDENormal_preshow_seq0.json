@@ -1,0 +1,21 @@
+{
+    "p2kwiet79801500101_frmModeIDENormal_preshow_seq0": {
+        "id": "p2kwiet79801500101_frmModeIDENormal_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_preshow_17634798015002112",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmModeIDENormal_DataLoad",
+            "display": "frmModeIDENormal_DataLoad",
+            "inputparams": []
+        }]
+    }
+}

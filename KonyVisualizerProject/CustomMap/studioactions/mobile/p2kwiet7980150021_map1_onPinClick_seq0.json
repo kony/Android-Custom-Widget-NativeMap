@@ -1,0 +1,17 @@
+{
+    "p2kwiet7980150021_map1_onPinClick_seq0": {
+        "id": "p2kwiet7980150021_map1_onPinClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onPinClick_34103798015002024",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onPinClick",
+            "display": "onPinClick",
+            "inputparams": [{
+                "name": "loc",
+                "value": "arguments[0]"
+            }]
+        }]
+    }
+}

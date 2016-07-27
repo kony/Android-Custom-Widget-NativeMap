@@ -1,0 +1,15 @@
+{
+    "p2kwiet798015007_frmAnimateToLocation_preshow_seq0": {
+        "id": "p2kwiet798015007_frmAnimateToLocation_preshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

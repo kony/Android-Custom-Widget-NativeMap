@@ -1,0 +1,16 @@
+{
+    "p2kwiet7980150080_button1930284220307183_onClick_seq0": {
+        "id": "p2kwiet7980150080_button1930284220307183_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_1776798015001398",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmIsVisibleRW.map1.isVisible = true;"
+        }]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "p2kwiet798015007_button1928198850300069_onClick_seq0": {
+        "id": "p2kwiet798015007_button1928198850300069_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "expression_onClick_33951798015003481",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var location = {\n lat : \"17.383406\",\n lon : \"78.484268\",\n name : \"Hyderabad\",\n desc : \"A.P. India\",\n image : \"greensh.png\",\n showcallout : true\n };\n frmAnimateToLocation.map1.animateToLocation(location);"
+        }]
+    }
+}
